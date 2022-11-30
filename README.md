@@ -4,9 +4,9 @@
 
 Now... without the emojis, I'll explain the code even though it's fairly simple;
 
-This program starts by printing a menu on the screen, it´'s just some printing so I gave my artistic touch haha;
+This program starts by printing a menu on the screen, it´'s just some printing so I it gave my artistic touch haha;
 
-Then we ask the user to input the number that represents its desired option (I'll add an input validation later);
+Then we ask the user to input the number that represents its desired option and convert it to an integer(I'll add an input validation later);
 
 And we finally start the switch case:
 - For case 1 we ask the user to input two numbers, then we sum them, and that's it;
