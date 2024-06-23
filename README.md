@@ -1,4 +1,4 @@
-👋 Hey! I'm @felovers and I made this simple calculatoron C# using Switch Case;
+👋 Hey! I'm @felovers and I made this simple calculator on C# using Switch Case;
 
 😅 This was the second project I made when I started learning C# and having my Python knowledge in the background made it way easier.;
 
